@@ -1,0 +1,5 @@
+{
+  "name": "Ramadan Time BD",
+  "description": "Professional Ramadan calendar and prayer times for all districts of Bangladesh.",
+  "requestFramePermissions": ["geolocation", "notifications"]
+}
